@@ -4,8 +4,8 @@ Tidied up from the usual marker pack in circulation, which is just a data dump o
 
 Can be used in the ClassicUO launcher (and forks of that project such as TazUO) along with Orion.
 
-For CUO: Copy the .MAP files and the MapIcons folder to the \Data\Client\ directory.
-For Orion: Copy the .MAP files and MapIcons folder to the Orion \Launcher\OrionData\ directory.
+For CUO: Copy the .MAP files and the MapIcons folder to the '\Data\Client\' directory.
+For Orion: Copy the .MAP files and MapIcons folder to the 'Orion Launcher\OrionData\WorldMapExternalMarkers\' directory. Delete the existing files Orion puts in that folder - they're the data dump ones mentioned above.
 
 ======================================
 
