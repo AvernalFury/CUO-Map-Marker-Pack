@@ -7,7 +7,7 @@ Can be used in the ClassicUO launcher (and forks of that project such as TazUO) 
 For CUO: Copy the .MAP files and the MapIcons folder to the \Data\Client\ directory.
 For Orion: Copy the .MAP files and MapIcons folder to the Orion \Launcher\OrionData\ directory.
 
-===============================================================================================
+==============================================================================================
 
 CUO download pages:
 https://www.classicuo.eu/
