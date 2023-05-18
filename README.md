@@ -10,14 +10,17 @@ For Orion: Copy the .MAP files and MapIcons folder to the 'Orion Launcher\OrionD
 ======================================
 
 CUO download pages:
+
 https://www.classicuo.eu/
 
 https://github.com/ClassicUO/ClassicUO
 
 TazUO download page:
+
 https://github.com/bittiez/ClassicUO
 
 Orion download pages:
+
 http://orionuo.online/
 
 https://github.com/Hotride/OrionUO
